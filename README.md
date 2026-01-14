@@ -106,4 +106,4 @@ Role     : user
 	•	Isi keluhan
 	4.	Dapat nomor antrian otomatis
 	5.	Pantau status antrian
-	6.	Batalkan antrian jika status masih WAITING
+	6.	Batalkan antrian jika status masih WAITING"# Antrian-Pasien" 
