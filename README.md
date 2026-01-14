@@ -75,12 +75,12 @@ php artisan serve
 http://127.0.0.1:8000
 
 ## Akun Admin
-Email    : admin@gmail.com
+Email    : admin@test.com
 Password : password
 Role     : admin
 
 ## Akun User
-Email    : user@gmail.com
+Email    : user@test.com
 Password : password
 Role     : user
 
