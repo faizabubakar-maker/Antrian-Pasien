@@ -108,9 +108,8 @@ Role     : user
 	5.	Pantau status antrian
 	6.	Batalkan antrian jika status masih WAITING"# Antrian-Pasien" 
 
-
 ## Anggota Kelompok
-FAIZ ABUBAKAR 2402510074
-Moh Dzakaul Fikri 2402510054
-Kurnia Syakilah Arifatun Nisak 2402510052
-Moh Briand Maulana Armansyah 2402510032
+    1.	Faiz Abubakar 2402510074
+	2.	Moh Dzakaul Fikri 2402510054
+	3.	Kurnia Syakilah Arifatun Nisak 2402510052
+	4.	Moh Briand Maulana Armansyah 2402510032
